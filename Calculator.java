@@ -33,7 +33,7 @@ class Calculator
 	   }
 	   default : 
 	   {
-		System.out.println("you insert wrong keyword");
+		System.out.println("you have inserted wrong keyword");
 		break;
 	   }
 	}
